@@ -1,0 +1,4 @@
+,precision,recall,f1,accuracy,balanced_accuracy,mcc,roc_auc,pr_auc
+Random Forest,0.234,0.08,0.119,0.764,0.507,0.023,0.522,0.217
+XGBoost,0.214,0.1,0.136,0.747,0.504,0.011,0.52,0.218
+GaussianNB (Baseline),0.228,0.342,0.273,0.636,0.526,0.045,0.529,0.218
